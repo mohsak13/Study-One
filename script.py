@@ -1,0 +1,1 @@
+print('I Hate myself')
